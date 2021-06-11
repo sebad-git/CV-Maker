@@ -1,9 +1,15 @@
 
 $menu-color: #2f4a6d75;
+$brand-color: #2f4a6d75;
+
 $shadow: #2f4a6d75;
 
 .navbar{
     background: $menu-color !important;
+}
+
+.brand{
+    color: blue !important;
 }
 
 img{
